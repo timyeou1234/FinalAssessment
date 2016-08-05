@@ -31,7 +31,6 @@ class PhotoDetailViewController: UIViewController , UIScrollViewDelegate{
         )
     }
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         
